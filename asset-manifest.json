@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.adb4284d.chunk.css",
+    "main.js": "/Portfolio/static/js/main.0afc3aac.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.0afc3aac.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.19968381.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.19968381.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Portfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e1487019.chunk.js": "/Portfolio/static/js/2.e1487019.chunk.js",
+    "static/js/2.e1487019.chunk.js.map": "/Portfolio/static/js/2.e1487019.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Portfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.adb4284d.chunk.css.map": "/Portfolio/static/css/main.adb4284d.chunk.css.map",
+    "static/js/2.e1487019.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.e1487019.chunk.js.LICENSE.txt",
+    "static/media/budget_tracker.7df581bb.JPG": "/Portfolio/static/media/budget_tracker.7df581bb.JPG",
+    "static/media/circleMe.54c2a2fa.png": "/Portfolio/static/media/circleMe.54c2a2fa.png",
+    "static/media/easy_shopper.16614a02.JPG": "/Portfolio/static/media/easy_shopper.16614a02.JPG",
+    "static/media/math-quiz.075461b2.JPG": "/Portfolio/static/media/math-quiz.075461b2.JPG",
+    "static/media/note_taker.67287272.JPG": "/Portfolio/static/media/note_taker.67287272.JPG",
+    "static/media/password_generator.52254d73.JPG": "/Portfolio/static/media/password_generator.52254d73.JPG",
+    "static/media/weather_dashboard.ebb51efc.JPG": "/Portfolio/static/media/weather_dashboard.ebb51efc.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19968381.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e1487019.chunk.js",
+    "static/css/main.adb4284d.chunk.css",
+    "static/js/main.0afc3aac.chunk.js"
+  ]
+}
